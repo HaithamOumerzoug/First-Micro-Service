@@ -5,6 +5,7 @@ import lombok.AllArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
+import java.util.List;
 import java.util.stream.Stream;
 
 @Component
@@ -12,7 +13,7 @@ import java.util.stream.Stream;
 class DataCLR implements CommandLineRunner {
     @Override
     public void run(String... strings) throws Exception {
-        Stream.of("Laptop", "iPhone", "iPad").forEach(s->productRepository.save(new Product(s)));
+        Stream.of("Laptop", "iPhone", "iPad").forEach(s->productRepository.save(new Product(s , 1L)));
         productRepository.findAll().forEach(s->System.out.println(s.getName()));
     }
     private ProductRepository productRepository;

@@ -19,8 +19,10 @@ public class Product implements Serializable {
     @GeneratedValue
     private Long id;
     private String name;
+    private Long categoryId;
 
-    public Product(String s) {
+    public Product(String s , Long categoryId) {
         this.name = s;
+        this.categoryId=categoryId;
     }
 }

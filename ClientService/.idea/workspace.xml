@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebdb80f7-2ce0-4111-a03f-44f925f2af38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ConfigService/src/main/resources/config" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigService/src/main/resources/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/controllers/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/controllers/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/repos/DataCLR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/repos/DataCLR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/repos/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/firstmicro/productservice/repos/ProductRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23K1SI90GyJkg8j7stqm9p13KvT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ClientService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firstmicro.clientservice.ClientServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebdb80f7-2ce0-4111-a03f-44f925f2af38" name="Changes" comment="" />
+      <created>1641467964939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641467964939</updated>
+      <workItem from="1641467966413" duration="3430000" />
+      <workItem from="1641633725478" duration="387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
